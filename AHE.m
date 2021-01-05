@@ -89,7 +89,7 @@ for x=1:dimX
 end
 
 
-% Show resulting image, its histogram and CDF
+% Show original and resulting image
 figure, imshow(image);
 title ('Original image');
 
